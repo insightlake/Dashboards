@@ -11,7 +11,12 @@ Dashboard solution is built to enable organizations quickly explore, analyze pat
 ## Interactive Dashboard Builder
 Visual builder provides drag and drop features to build charts very easily. Any data source could be used like Kafka, Database, SOLR, Elastic Search etc. Fields from data source can be dropped on the data section. Complex fields (derived fields) can be built using rich function library. Different filters like numeric, string, date time etc can be applied easily. Finally properties can be used to create different charts like Histogram, Pie, Map etc..
 
+<img style="width:100%;" src="dashboard-main.jpeg">
+
 ## Supported Charts
+
+<img style="width:100%;" src="dashboard-panel.jpeg">
+
 Basic charts - Pie, Histogram, Horizontal Bar, Line, Heatmap, Donut, Table...
 Map - USA, World, Real time connections map
 Pivot, Word Map
@@ -24,6 +29,8 @@ Linked Table - Connect dashboards together to create nice data story
 ## Connect to many data sources
 
 Dashboard solution collects data from various sources using integrated metadata layer.
+
+<img style="width:100%;" src="dashboard-source.jpeg">
 
 Data sources can be real time sources like Kafa or persistent stores like databases, HDFS, S3, SOLR, Elastic Search etc.
 
@@ -60,6 +67,8 @@ Data Dictionary : Dashboard solution's data dictionary integration allows users 
 
 Data Lineage : Business users can leverage lineage feature to see from where data came from and what are the sources and processes, which transformed the data.
 
+<img style="width:100%;" src="dashboard-lineage.jpeg">
+
 ## Integrate R in dashboards
 R is a language and environment for statistical computing. R provides a wide variety of statistical (linear and nonlinear modeling, classical statistical tests, time-series analysis, classification, clustering etc.). InsightLake Dashboard Solution integrates with R environment using RServe and allows building charts using R Scripts.
 
@@ -76,6 +85,9 @@ Generation of PDF, PNG or Confluence report page.
 Email generated dashboard to specified user group
 
 ## Secure Dashboard Access at Chart Level
+
+<img style="width:100%;" src="dashboard-security.jpeg">
+
 Dashboard access can be provisioned for users or user groups at dashboard or individual chart level. If a user is not allowed to see certain chart then that panel is not rendered.
 
 To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
