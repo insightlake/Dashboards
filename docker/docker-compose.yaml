@@ -36,6 +36,8 @@ services:
       # Where our data will be persisted
     volumes:
       - my-db:/var/lib/mysql
+    extra_hosts:
+      - "moby:127.0.0.1"
 # Names our volume
 volumes:
   my-db:
