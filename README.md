@@ -102,7 +102,7 @@ Email generated dashboard to specified user group
 
 Dashboard access can be provisioned for users or user groups at dashboard or individual chart level. If a user is not allowed to see certain chart then that panel is not rendered.
 
-To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
+To learn more, check out [http://www.insightlake.com/dashboards.html](http://www.insightlake.com/dashboards.html)
 
 Installation
 ------
