@@ -126,7 +126,7 @@ Installation using docker
 
 License
 ------
-InsightLake Data Explorer is a commercial product but distributed to be used freely. Please contact contact@insightlake.com for details.
+InsightLake Data Visualizer is a commercial product but distributed to be used freely. Please contact contact@insightlake.com for details.
 
 Getting Help
 ----------
